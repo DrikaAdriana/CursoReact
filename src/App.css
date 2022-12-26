@@ -1,0 +1,16 @@
+.caixa{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.caixa a{
+  text-decoration: none;
+  color: rgba(2, 13, 3, 0.573);
+}
+
+.texto{
+  color:#555;
+  font-size: 2em
+}
+
